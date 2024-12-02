@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV" Version="*" />
+    <PackageReference Include="Emgu.CV.runtime.windows" Version="*" />
+    <PackageReference Include="Emgu.CV.UI" Version="*" />
+    <PackageReference Include="Emgu.CV.Bitmap" Version="*" />
+
+    <!-- <PackageReference Include="Microsoft.Windows.Compatibility" Version="5.0.2" /> -->
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\obj\Debug\net48\FTIR_Touchpad.csproj.AssemblyReference.cache
+C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\obj\Debug\net48\FTIR_Touchpad.csproj.SuggestedBindingRedirects.cache
+C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\obj\Debug\net48\FTIR_Touchpad.exe.config
+C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\obj\Debug\net48\App.g.cs
+C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\obj\Debug\net48\FTIR_Touchpad_MarkupCompile.cache
