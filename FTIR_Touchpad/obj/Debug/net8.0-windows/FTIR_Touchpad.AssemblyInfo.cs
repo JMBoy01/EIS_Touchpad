@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FTIR_Touchpad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+687a02a46a1fcd796c64f5b531cf3d7b895652ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("FTIR_Touchpad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FTIR_Touchpad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

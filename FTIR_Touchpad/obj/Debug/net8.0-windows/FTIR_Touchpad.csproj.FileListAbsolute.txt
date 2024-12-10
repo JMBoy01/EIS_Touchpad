@@ -53,3 +53,4 @@ C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\bi
 C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
 C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
 C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\School\Engineering Interactive Software\Taak 4\FTIR_Touchpad\FTIR_Touchpad\obj\Debug\net8.0-windows\FTIR_Touchpad.sourcelink.json
